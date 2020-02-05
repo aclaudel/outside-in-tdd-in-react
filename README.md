@@ -10,7 +10,7 @@
 ## Goals
 
 - Build the ui logic without any concern about layout, styling etc.
-- Only assert component interactions, conditional rendering and properties
+- Only assert conditional rendering component interactions and properties
 
 ## Acceptance tests
 
